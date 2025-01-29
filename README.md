@@ -35,7 +35,7 @@ Este projeto realiza uma Análise Exploratória de Dados (EDA) e constrói model
    ```
 2. Execute o Jupyter Notebook para visualizar o EDA e os modelos.
    ```bash
-   jupyter notebook INDICIUM.ipynb
+   jupyter notebook LH_CD_ANDERSONJHONESPASSOSNASCIMENTO.ipynb
    ```
 3. O relatório detalhado está disponível em formato PDF ou no próprio notebook.
 
